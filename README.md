@@ -5,3 +5,6 @@ This is the second project for the Udacity frontend nanodegree program
 
 The landing page project involves using my knowledge of HTML, CSS and Javascript.
 Mainly using Javascript, I have to populate the navbar dynamically and use event listeners to listen to and manipulate the DOM.
+
+## View Project
+This project is published on github pages at [https://dejiabiola.github.io/Udacity-landingPage-Project/]
